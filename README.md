@@ -35,10 +35,15 @@ This project uses **MediaPipe** for hand tracking and **PyAutoGUI** to control s
 
 AI_Presentation_Controller/
 │
+
 ├── main.py                # Your Python gesture control script
+
 ├── requirements.txt       # Dependencies
+
 ├── README.md              # Project documentation
+
 ├── .gitignore             # Ignore unnecessary files
+
 └── AI_Based Presentation Controller.pptx   # Your sample PPT (optional to push)
 
 
